@@ -1,8 +1,8 @@
 const styles = {
   wrapper: {
     width: "100vw",
-    minHeight: "70px",
-    padding: ["11px 10px", "11px 30px"],
+    minHeight: "30px",
+    padding: "5px 20px",
     display: "flex",
     alignItems: "center",
     justifyContent: "space-between",
@@ -15,7 +15,8 @@ const styles = {
     ".logo": {
       img: {
         "@media only screen and (min-width: 768px)": {
-          width: "80px",
+          width: "70px",
+          height: "38px",
         },
       },
     },
@@ -25,7 +26,7 @@ const styles = {
       },
     },
     ".picksySearch": {
-      flex: "3",
+      flex: "5",
       input: {
         border: "0",
         backgroundColor: "lightgray",

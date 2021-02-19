@@ -11,7 +11,8 @@ const styles = {
     },
   },
   logo: {
-    width: [80, 80],
+    width: [70, 70],
+    height: [38, 38],
   },
 }
 

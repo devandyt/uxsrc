@@ -5,8 +5,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `uxsrc`,
-    description: `your source of ux`,
+    title: `svgdown`,
+    description: `download your favorite svg`,
     author: `@AT`,
   },
   plugins: [

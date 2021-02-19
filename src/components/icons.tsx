@@ -14,6 +14,8 @@ export const FolderIcon = () => {
     <svg
       version="1"
       xmlns="http://www.w3.org/2000/svg"
+      width="28.2"
+      height="21.677"
       viewBox="0 0 48 48"
       enable-background="new 0 0 48 48"
     >
